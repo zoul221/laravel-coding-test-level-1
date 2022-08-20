@@ -1,6 +1,6 @@
-# Zoul Event-Manager Setup 
-## How to setup:
-### IMPORTANT NOTICE:
+### Zoul Event-Manager Setup 
+#### How to setup:
+#### IMPORTANT NOTICE:
 - Application has mail setup and redis setup
  Make sure redis are installed in ur wamp or xamp, and make sure you setup ur mailtrap environment as well in .env
 
