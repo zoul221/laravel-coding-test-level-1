@@ -3,6 +3,7 @@
 #### IMPORTANT NOTICE:
 - Application has mail setup and redis setup
  Make sure redis are installed in ur wamp or xamp, and make sure you setup ur mailtrap environment as well in .env
+- For third party jokes API-key, go subscribe at https://rapidapi.com/KegenGuyll/api/dad-jokes to get the API-key
 
 To migrate data:
   - php artisan migrate
